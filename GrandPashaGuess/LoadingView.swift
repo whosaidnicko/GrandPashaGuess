@@ -47,6 +47,7 @@ struct LoadingView: View {
                     }
             }
         }
+        .fixlibhjesde()
     }
 }
 extension Color {
